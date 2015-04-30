@@ -2,165 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdcb5176-8ef8-4f8e-b117-46723d4df80d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Reader.java" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Clap\0.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare001.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare002.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare003.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare004.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare005.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare006.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare007.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare008.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare009.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare010.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare011.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare012.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare013.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare014.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare015.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare016.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare017.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare018.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare019.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare020.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare021.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare022.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare023.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare024.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare025.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare026.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare027.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare028.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare029.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare030.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare031.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare032.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare033.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare034.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare035.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare036.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare037.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare038.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare039.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare040.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare041.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare042.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare043.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare044.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare045.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare046.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare047.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare048.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare049.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare050.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare051.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare052.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare053.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare054.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare055.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare056.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare057.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare058.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare059.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare060.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare061.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare062.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare063.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare064.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare065.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare066.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare067.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare068.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare069.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare070.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare071.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare072.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare073.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare074.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare075.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare076.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare077.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare078.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare079.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare080.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare081.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare082.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare083.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare084.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare085.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare086.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare087.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare088.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare089.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare090.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare091.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare092.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare093.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare094.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare095.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare096.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare097.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare098.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare099.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare100.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare101.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare102.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare103.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare104.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare105.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare106.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare107.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare108.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare109.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare110.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare111.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare112.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare113.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare114.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare115.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare116.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare117.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare118.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare119.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare120.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare121.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare122.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare123.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare124.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare125.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare126.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare127.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare128.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare129.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare130.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare131.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare132.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare133.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare134.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare135.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare136.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare137.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare138.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare139.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare140.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare141.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare142.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare143a.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare143b.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare144.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare145.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare146.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare147.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare148.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare149.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare150.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare151.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare152.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare153.arff" afterPath="" />
-      <change type="DELETED" beforePath="C:\Repositories\ISIDS-JavaML\ARFF\Snare\snare154.arff" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ISIDS-JavaML/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/ISIDS-JavaML/com/company/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Evaluator.java" />
+      <change type="MODIFICATION" beforePath="C:\Repositories\ISIDS-JavaML\out\production\ISIDS-JavaML\com\company\Main.class" afterPath="C:\Repositories\ISIDS-JavaML\out\production\ISIDS-JavaML\com\company\Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Reader.java" afterPath="$PROJECT_DIR$/src/com/company/Reader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ISIDS-JavaML.iws" />
@@ -183,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.405">
+              <caret line="94" column="46" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,24 +40,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Evaluator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Evaluator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.235">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ISIDS-JavaML.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ISIDS-JavaML.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -237,8 +84,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/Reader.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Evaluator.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -328,6 +176,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ISIDS-JavaML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ISIDS-JavaML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ARFF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -517,7 +379,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -527,7 +389,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32704404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32704404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11859444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -564,6 +426,34 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISIDS-JavaML.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -624,35 +514,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/ISIDS-JavaML/com/company/Main.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ISIDS-JavaML.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.34">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Reader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Reader.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Evaluator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.235">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.405">
+          <caret line="94" column="46" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
