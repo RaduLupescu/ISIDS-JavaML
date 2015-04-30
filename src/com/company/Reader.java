@@ -23,7 +23,7 @@ public class Reader
     public Dataset readARFF(String name, int start, int end, int classIndex) {
             for (int i = start; i < end; i++) {
                 try {
-                    readData = ARFFHandler.loadARFF(new File("C:\\Repositories\\ISIDS-JavaML\\ARFF\\" + name + "\\" + i + ".arff"), classIndex);
+                    readData = ARFFHandler.loadARFF(new File("ARFF\\" + name + "\\" + i + ".arff"), classIndex);
                 } catch (java.io.FileNotFoundException e) {
                     System.out.println("error: " + e.getMessage());
                 }
