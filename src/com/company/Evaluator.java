@@ -11,18 +11,27 @@ import java.util.Map;
 public class Evaluator {
     public Evaluator () {}
 
-    public void evaluateClassifier1 (Classifier knn, Dataset data) {
-        Map<Object, PerformanceMeasure> pm = EvaluateDataset.testDataset(knn, data);
+    /**
+     * Method which evaluates classifiers using the PerformanceMeasure class
+     * @param classifier The classifier to evaluate
+     * @param testingData The data to test against the classifier
+     */
+    public void evaluateClassifier1 (Classifier classifier, Dataset testingData) {
+        Map<Object, PerformanceMeasure> pm = EvaluateDataset.testDataset(classifier, testingData);
         for(Object o:pm.keySet()) {
-            System.out.println(o + ": " + pm.get(o).getAccuracy());
+            System.out.println(o + ": " + pm.get(o).getTotal());
         }
     }
 
-    public void evaluateClassifier2 (Classifier knn, Dataset data) {
+    /**
+     * Method which evaluates classifiers by comparing the predicted label with the actual one
+     * @param classifier The classifier to evaluate
+     * @param testingData The data to test against the classifier
+     */
+    public void evaluateClassifier2 (Classifier classifier, Dataset testingData) {
         int correct = 0, wrong = 0;
-
-        for (Instance inst : data) {
-            Object predictedClassValue = knn.classify(inst);
+        for (Instance inst : testingData) {
+            Object predictedClassValue = classifier.classify(inst);
             Object realClassValue = inst.classValue();
             if (predictedClassValue.equals(realClassValue)) {
                 correct++;
@@ -30,7 +39,6 @@ public class Evaluator {
                 wrong++;
             }
         }
-
         System.out.println("C: " + correct + "   W: " + wrong);
     }
 }
